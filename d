@@ -1,0 +1,41 @@
+[33mcommit 65f006b6defe8a452db91891a03d14b9285b3d7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Wed Feb 17 19:12:54 2021 -0300
+
+    Produto e associação muitos para muitos
+
+[33mcommit 8ec87a15adf6c5f5929cb75432a7eed48934acd9[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Sat Feb 13 15:03:42 2021 -0300
+
+    Criando operação de instanciação
+
+[33mcommit 1e3cf5d6438dc2c0f629ae5101303337688aa764[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Thu Feb 11 13:08:05 2021 -0300
+
+    Criando repository e service para categoria
+
+[33mcommit 7d1c0d78ab9ede5af8f9db28c199726efd6b0ead[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Thu Feb 11 12:03:38 2021 -0300
+
+    Banco de dados H2 e criação automatica do base de dados
+
+[33mcommit 71e72428b4a4fe8a386501ce9e051358c09bafa8[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Thu Feb 11 09:14:28 2021 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit f8935b0e7a967d0ac8f5e4f46f4b7fc69deeee80[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Thu Feb 11 08:47:18 2021 -0300
+
+    REST testado
+
+[33mcommit 573b5c0ff019ba9e32d002a953a05f164a549906[m
+Author: Victor Lobato <victorsilva123190@gmail.com>
+Date:   Thu Feb 11 08:05:50 2021 -0300
+
+    Projeto criado
